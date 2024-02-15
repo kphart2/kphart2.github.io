@@ -1,3 +1,8 @@
+ YAML HEADER FOR PAGE
+  ---
+ layout: nice-text
+ title: 'Nice Layout
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
