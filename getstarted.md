@@ -71,7 +71,7 @@ Click on the __*Fork*__ button at the top right corner of this page. Forking mea
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
  
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
@@ -82,7 +82,7 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 </div>
 
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-03" markdown="1">
  
 ### 3. Customize your website settings
 
@@ -244,5 +244,38 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 # Credits
 
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
+
+<style>
+
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 20px;
+}
+
+</style>
+
+<style>
+
+.gs-section-03 h3 { 
+     color: green }
+
+.gs-section-03 p {
+     font-size: 40px;
+}
+
+</style>
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
