@@ -14,7 +14,7 @@ author: Paige Hart
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am a student in the MS Program Evaluation & Data Analytics at ASU."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
