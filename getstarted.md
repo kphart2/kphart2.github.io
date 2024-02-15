@@ -253,21 +253,22 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red}
+     color: red;
+font-size: 40px}
 
-.gs-section-01 p {
+.gs-section-01 p {color: pink;
+     font-size: 30px}
+
+ .gs-section-02 h3  {color: blue;
+     font-size: 50px}
+
+.gs-section-02 p  {color: teal;
      font-size: 35px}
 
- .gs-section-02 h3 { 
-     color: green}
+ .gs-section-03 h3  {color: yellow;
+     font-size: 20px}
 
-.gs-section-02 p {
-     font-size: 25px}
-
- .gs-section-03 h3 { 
-     color: orange}
-
-.gs-section-03 p {
+.gs-section-03 p  {color: orange;
      font-size: 15px}
 
 </style>
