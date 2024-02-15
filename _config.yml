@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: ""
 
 # --- Logo --- #
 
@@ -100,14 +100,14 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#B47EB3"
-navbar-text-col: "#A76571"
-navbar-border-col: "#A76571"
+navbar-text-col: "#AA4465"
+navbar-border-col: "#AA4465"
 page-col: "#EFE9E7"
 text-col: "#230903"
 link-col: "#335C81"
 hover-col: "#0085A1"
 footer-col: "#B47EB3"
-footer-text-col: "#A76571"
+footer-text-col: "#AA4465"
 footer-link-col: "#335C81"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
